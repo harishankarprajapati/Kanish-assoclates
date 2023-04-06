@@ -287,3 +287,88 @@ span.sec-hin-p {
     color: #000000;
     padding: 15px 30px;
 }
+
+.sec-footer-bg2 {
+    background-color: #fff9ec;
+    padding: 50px 60px;
+}
+
+.sec-footer-ab h4,
+h5 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 120%;
+    color: #000000;
+}
+
+.sec-footer-ab p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 166.5%;
+    color: #000000;
+    padding-bottom: 30px;
+
+}
+
+.sec-footer-ab h5 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 120%;
+    color: #000000;
+}
+
+.sec-icon-fot {
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 167%;
+    letter-spacing: 0.405em;
+    color: #000000;
+    
+}
+
+.sec-foot-menu {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 190%;
+    color: #000000;
+
+}
+
+.sec-footer-get {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 120%;
+    color: #000000;
+    padding-top: 40px;
+    padding-bottom: 20px;
+
+}
+
+.sec-add-p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 179%;
+    color: #000000;
+    margin: 0;
+}
+
+.sec-add-a {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 179%;
+    color: #000000;
+}
