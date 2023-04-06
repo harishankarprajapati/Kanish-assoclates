@@ -329,7 +329,7 @@ h5 {
     line-height: 167%;
     letter-spacing: 0.405em;
     color: #000000;
-    
+
 }
 
 .sec-foot-menu {
@@ -370,5 +370,220 @@ h5 {
     font-weight: 500;
     font-size: 18px;
     line-height: 179%;
+    color: #000000;
+}
+
+
+/* about */
+
+.sec-bg-about {
+    background-image: url(../images/about.png);
+    background-repeat: no-repeat;
+    background-size: cover !important;
+    padding: 60px 0px;
+}
+
+.sec-abo-pp h2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 90px;
+    color: #000000;
+
+}
+
+.sec-abo-pp p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+
+}
+
+.sec-ab-2 {
+    padding: 50px 0px;
+}
+
+.sec-ab-2 h2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 90px;
+    color: #000000;
+}
+
+.sec-ab-2 p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 201.5%;
+    color: #000000;
+
+}
+
+.sec-about-btn {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    background: #FFB522;
+    padding: 15px 30px;
+}
+
+/* Properties */
+
+.sec-bg-Properties {
+    background-image: url(../images/Properties-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover !important;
+    padding: 0px 0px;
+}
+
+.sec-pro-pp h2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 90px;
+    color: #fff;
+
+}
+
+.sec-pro-pp p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #fff;
+
+}
+
+.sec-pro-event h4 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 157%;
+    color: #000000;
+
+}
+
+.sec-pro-event h6 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 157%;
+    color: #000000;
+
+}
+
+.sec-pro-event p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    color: #848484;
+}
+
+.sec-pro-event a {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+}
+
+/* contact */
+
+
+.sec-cont-pp {
+    padding-left: 60px;
+}
+
+.sec-cont-pp h2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 70px;
+    color: #000000;
+
+
+}
+
+.sec-cont-pp p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 38px;
+    color: #FFB522;
+    padding-top: 30px;
+
+}
+
+.sec-btn-cont {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
+    background: #FFB522;
+    padding:10px 35px;
+    border-radius: 0;
+    margin-bottom: 30px;
+}
+.sec-btn-cont:hover {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
+    background: #FFB522 !important;
+    padding:10px 35px;
+    border-radius: 0;
+    margin-bottom: 30px;
+}
+.sec-cont-tp h2{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 90px;
+    color: #000000;
+}
+.sec-cont-tp h6{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 179%;
+    color: #000000;
+    padding: 0;
+    margin: 0;
+    
+    
+}
+.sec-cont-tp p , a{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 171.5%;
     color: #000000;
 }
