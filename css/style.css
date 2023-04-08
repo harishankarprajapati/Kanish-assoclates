@@ -543,10 +543,11 @@ h5 {
     line-height: 30px;
     color: #FFFFFF;
     background: #FFB522;
-    padding:10px 35px;
+    padding: 10px 35px;
     border-radius: 0;
     margin-bottom: 30px;
 }
+
 .sec-btn-cont:hover {
     font-family: 'Poppins';
     font-style: normal;
@@ -555,11 +556,12 @@ h5 {
     line-height: 30px;
     color: #FFFFFF;
     background: #FFB522 !important;
-    padding:10px 35px;
+    padding: 10px 35px;
     border-radius: 0;
     margin-bottom: 30px;
 }
-.sec-cont-tp h2{
+
+.sec-cont-tp h2 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
@@ -567,7 +569,8 @@ h5 {
     line-height: 90px;
     color: #000000;
 }
-.sec-cont-tp h6{
+
+.sec-cont-tp h6 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 700;
@@ -576,14 +579,218 @@ h5 {
     color: #000000;
     padding: 0;
     margin: 0;
-    
-    
+
+
 }
-.sec-cont-tp p , a{
+
+.sec-cont-tp p,
+a {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
     line-height: 171.5%;
     color: #000000;
+}
+
+/* Blogs */
+
+
+.sec-bg-blogs {
+    background-image: url(../images/blogs-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover !important;
+    padding: 0px 0px;
+}
+
+.sec-h-blo {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 90px;
+    color: #FFFFFF;
+    padding: 100px 0px;
+}
+
+.sec-blog-sm-blog {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #848484;
+    padding: 10px 0px;
+}
+
+.sec-date-m {
+    margin-top: -40px;
+    margin-left: -30px;
+    margin-right: 30px;
+}
+
+.sec-date {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+
+}
+
+.sec-date-2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 157%;
+    color: #000000;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.sec-tit {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 157%;
+    color: #000000;
+
+}
+
+.sec-a-lin:hover {
+    text-decoration: none;
+}
+
+/* Blog Detail */
+
+/* bg-1 */
+.sec-blogs-1 {
+    background-image: url(../images/b-d-1.png);
+    background-repeat: no-repeat;
+    background-size: cover !important;
+    padding: 0px 0px;
+}
+
+/* bg-2 */
+.sec-blogs-2 {
+    background-image: url(../images/b-d-2.png);
+    background-repeat: no-repeat;
+    background-size: cover !important;
+    padding: 0px 0px;
+}
+
+.sec-dea-p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 166.5%;
+    color: #000000;
+    padding: 30px 0px;
+}
+
+.sec-dea-p2 {
+    background: #FFF9EC;
+    padding: 10px;
+    border-left: 8px solid #FFB522;
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 152.5%;
+    color: #000000;
+    margin-bottom: 30px;
+
+}
+
+.sec-dea-p3 h1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 139%;
+    color: #000000;
+
+}
+
+.sec-dea-p4 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 166.5%;
+    color: #000000;
+}
+
+.sec-borde {
+    border-top: 1px solid #C1C1C1;
+    border-bottom: 1px solid #C1C1C1;
+    margin-bottom: 50px;
+
+}
+
+.sec-dea-p5 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 166.5%;
+    color: #000000;
+    margin: 0;
+}
+
+.sec-sun-p-name {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 90px;
+    padding: 20px 0px;
+    color: #000000;
+}
+
+.sec-loc-2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 194%;
+    color: #000;
+}
+
+.sec-loc {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400 !important;
+    font-size: 20px;
+    line-height: 194%;
+}
+
+.sec-deta-btn {
+    background: #FFB522;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
+    padding: 15px 30px;
+
+}
+
+.sec-p-ddd {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 194%;
+    color: #000000;
+    padding: 15px 0px;
 }
