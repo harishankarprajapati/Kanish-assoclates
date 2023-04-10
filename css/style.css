@@ -796,33 +796,34 @@ a {
 }
 
 /* whatsapp */
-a{
-    text-decoration:none !important;
-  }
-  .floating_btn {
+a {
+    text-decoration: none !important;
+}
+
+.floating_btn {
     position: fixed;
     bottom: 30px;
     width: 100px;
     height: 100px;
     display: flex;
     flex-direction: column;
-    align-items:center;
-    justify-content:center;
+    align-items: center;
+    justify-content: center;
     z-index: 1000;
-  }
-  
-  @keyframes pulsing {
+}
+
+@keyframes pulsing {
     to {
-      box-shadow: 0 0 0 30px rgba(232, 76, 61, 0);
+        box-shadow: 0 0 0 30px rgba(232, 76, 61, 0);
     }
-  }
-  
-  .contact_icon {
+}
+
+.contact_icon {
     background-color: #42db87;
     color: #fff;
     width: 60px;
     height: 60px;
-    font-size:30px;
+    font-size: 30px;
     border-radius: 50px;
     text-align: center;
     box-shadow: 2px 2px 3px #999;
@@ -840,14 +841,14 @@ a{
     font-family: sans-serif;
     text-decoration: none !important;
     transition: all 300ms ease-in-out;
-  }
-  
-  
-  .text_icon {
+}
+
+
+.text_icon {
     margin-top: 8px;
     color: #707070;
     font-size: 13px;
-  }
+}
 
 
 @media only screen and (max-width: 767px) {
@@ -855,80 +856,115 @@ a{
         font-size: 100px !important;
         line-height: 100px;
     }
+
     .sec-slider-text h4 {
         font-size: 45px;
         line-height: 49px;
     }
+
     .sec-list-h {
         font-size: 36px;
         line-height: 44px;
     }
-    .sec-lis-bg , .sec-lis-bg2 , .sec-lis-bg3 {
+
+    .sec-lis-bg,
+    .sec-lis-bg2,
+    .sec-lis-bg3 {
         min-height: 370px !important;
         margin-bottom: 20px;
     }
+
     .sec-let-bg {
         padding: 29px 28px !important;
     }
+
     .sec-let-p {
         font-size: 31px;
         line-height: 137%;
     }
+
     br {
         display: none;
     }
+
     .sec-slider-text22 h4 {
         font-size: 29px;
         line-height: 127%;
     }
+
     .sec-sellul li {
         font-size: 17px;
         line-height: 169.5%;
     }
+
     .sec-box-p2 {
         font-size: 16px;
         line-height: 22px;
     }
+
     .sec-footer-pp {
         font-size: 30px;
         line-height: 42px;
         text-align: center !important;
     }
+
     .sec-foot-menu {
         font-size: 19px;
         line-height: 184%;
     }
+
     .navbar-light .navbar-brand {
-        color: rgba(0,0,0,.9);
+        color: rgba(0, 0, 0, .9);
         width: 74% !important;
     }
+
     a.nav-link {
         text-align: left !important;
     }
+
     .sec-cont-pp {
         padding-left: 20px;
     }
+
     .sec-cont-pp h2 {
         font-size: 24px;
         line-height: 39px;
     }
+
     .sec-cont-tp h2 {
         font-size: 43px;
         line-height: 79px;
     }
+
     .sec-sun-p-name {
         font-size: 30px;
         line-height: 35px;
     }
+
     .sec-p-ddd {
         padding: 15px 15px;
     }
-    
-element.style {
+
+    .sec-footer-bg2 {
+        padding: 25px 30px;
+    }
+
+    .sec-h-blo {
+        padding: 20px 0px;
+    }
+
+    .sec-col-w {
+        width: 60%;
+    }
+
+    .sec-col-w2 {
+        width: 40%;
+    }
+
+    .sec-tit {
+        font-size: 16px;
+        line-height: 146%;
+    }
+
+
 }
-.sec-footer-bg2 {
-    padding: 25px 30px;
-}
-    
-    
-  }
