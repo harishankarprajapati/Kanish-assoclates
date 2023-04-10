@@ -966,5 +966,14 @@ a {
         line-height: 146%;
     }
 
+    .sec-h-blo {
+        font-size: 27px;
+        line-height: 36px;
+    }
+
+    .sec-dea-p3 h1 {
+        font-size: 27px;
+        line-height: 130%;
+    }
 
 }
