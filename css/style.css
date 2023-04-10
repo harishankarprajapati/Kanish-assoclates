@@ -975,5 +975,13 @@ a {
         font-size: 27px;
         line-height: 130%;
     }
+    .sec-abo-pp h2 {
+        font-size: 46px;
+        line-height: 50px;
+        color: #fff;
+    }
+.sec-abo-pp p {
+    color: #fff;
+}
 
 }
