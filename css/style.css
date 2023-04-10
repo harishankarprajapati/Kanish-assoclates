@@ -983,5 +983,20 @@ a {
 .sec-abo-pp p {
     color: #fff;
 }
-
+.sec-ab-2 h2 {
+    font-size: 44px;
+    padding-left: 10px;
+    line-height: 68px;
+}
+.sec-ab-2 p {
+    padding: 0px 10px;
+}
+.sec-about-btn {
+    font-size: 15px;
+    line-height: 29px;
+    margin-left: 10px;
+}
+.sec-ab-2 {
+    padding: 23px 7px;
+}
 }
