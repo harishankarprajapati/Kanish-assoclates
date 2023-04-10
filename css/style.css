@@ -916,6 +916,19 @@ a{
         font-size: 43px;
         line-height: 79px;
     }
+    .sec-sun-p-name {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .sec-p-ddd {
+        padding: 15px 15px;
+    }
+    
+element.style {
+}
+.sec-footer-bg2 {
+    padding: 25px 30px;
+}
     
     
   }
